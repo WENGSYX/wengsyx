@@ -4,7 +4,7 @@
 - 💬 Ask me about : NLP
 - 📫 How to reach me: wengsyx@gmail.com
 - ⚡ What I like: Running (I hope so)
-
+- 👀 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=O1XsDEMAAAAJ)
 ### My Work
 
 - Large Language Models are reasoners with Self-Verification ([Arxiv](https://arxiv.org/abs/2212.09561))
