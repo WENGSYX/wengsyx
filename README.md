@@ -8,7 +8,7 @@
 ### My Work
 
 - Mastering Symbolic Operations: Augmenting Language Models with Compiled Neural Networks ([Arxiv](https://arxiv.org/abs/2304.01665))
-- Large Language Models are reasoners with Self-Verification ([Arxiv](https://arxiv.org/abs/2212.09561))
+- Large Language Models are reasoners with Self-Verification ([EMNLP 2023 Findings](https://arxiv.org/abs/2212.09561))
 - Find Parent then Label Children: A Two-stage Taxonomy Completion Method with Pre-trained Language Model (EACL 2023)
 - MedConQA: Medical Conversational Question Answering System based on Knowledge Graphs ([EMNLP 2022 demo](https://aclanthology.org/2022.emnlp-demos.15/))
 - Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video ([Arxiv](https://arxiv.org/abs/2203.06667))
